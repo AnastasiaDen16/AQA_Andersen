@@ -1,0 +1,7 @@
+E:\Work\Andersen\Denisova_AQA\Denisova_AQA\obj\Debug\Denisova_AQA.csprojAssemblyReference.cache
+E:\Work\Andersen\Denisova_AQA\Denisova_AQA\obj\Debug\Denisova_AQA.csproj.CoreCompileInputs.cache
+E:\Work\Andersen\Denisova_AQA\Denisova_AQA\bin\Debug\Denisova_AQA.exe.config
+E:\Work\Andersen\Denisova_AQA\Denisova_AQA\bin\Debug\Denisova_AQA.exe
+E:\Work\Andersen\Denisova_AQA\Denisova_AQA\bin\Debug\Denisova_AQA.pdb
+E:\Work\Andersen\Denisova_AQA\Denisova_AQA\obj\Debug\Denisova_AQA.exe
+E:\Work\Andersen\Denisova_AQA\Denisova_AQA\obj\Debug\Denisova_AQA.pdb
